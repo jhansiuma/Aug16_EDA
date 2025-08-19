@@ -1,3 +1,3 @@
 # Aug16_EDA1
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/cebd9d69-4a00-4e54-ba5d-9584530aeebd" />
-Case Study : EDA on a food delivery service dataset
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/ef06cfe6-03b2-4486-ae46-87ac18869d81" />
+ Case Study : EDA on a food delivery service dataset
