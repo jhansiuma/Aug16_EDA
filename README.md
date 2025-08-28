@@ -50,7 +50,7 @@ Product Dataset (product based)
    -> India is the major contributor to 0 ratings, and the other
       countries’ contributions are negligible.
 
-# 🚩Challenges faced:
+# 🚩Challenges Faced:
    1) Encoding issues : resolved using 'latin-1' during CSV import
       
    2) Missing values in 'Cuisines' column : since the proportion of
