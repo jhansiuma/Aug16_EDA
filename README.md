@@ -63,9 +63,26 @@ Product Dataset (product based)
    
    -> Clustered bar plots (Aggregate rating by country)
 
+# ⚛️Tech Stack: 
+
+   -> Python (Pandas, NumPy)
+
+   -> Matplotlib, Seaborn
+
+   -> Jupyter Notebook
+
+ # 👉How to Run 
+   
+   -> Clone repo
+
+   -> Install requirements
+
+   -> Run notebook
+  
 # 👥 Collaborators
 
-   Special thanks to:
+   Part of WeUpSkill Mentorship Program
+   Special thanks to: 
 
    • Chirag Jhumkawala
    • Pranav Jaipurkar	
