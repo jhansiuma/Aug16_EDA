@@ -8,7 +8,7 @@ datasets.
 In this session we explored 2 Test Cases:
 # 📌Test Case 1 (EDA1) : 
 Food delivery service Dataset (service based) : The goal is to better 
-understand service usage, performance metrics, and customer behavior.
+understand service usage, performance metrics, and customer behaviour.
 # 📌Test Case 2 (EDA2) :                    
 Product Dataset (product based)
 
