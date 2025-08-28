@@ -21,10 +21,10 @@ Product Dataset (product based)
 # ✅Main Steps :
 1. Importing important libraries like numpy, pandas, matplotlib,
    seaborn etc
-3. Importing the data i.e. 'zwigato.csv' and 'Country-Code.xlsx'
-4. Cleaning the data from duplicates, NULL values and  making sure
+2. Importing the data i.e. 'zwigato.csv' and 'Country-Code.xlsx'
+3. Cleaning the data from duplicates, NULL values and  making sure
    data is in correct datatypes
-6. Data Visualization:
+4. Data Visualization:
    
    i) Univariate Analysis :
    
@@ -38,7 +38,7 @@ Product Dataset (product based)
    ii) Bivariate Analysis : Clustered bar plots for aggregate ratings
        by country
    
-8. Insights & Observations :
+5. Insights & Observations :
    
    -> There are outliers in right tail for 'Average Cost for two'
       and 'Votes' columns.
@@ -50,7 +50,7 @@ Product Dataset (product based)
    -> India is the major contributor to 0 ratings, and the other
       countries’ contributions are negligible.
 
-#🚩Challenges faced:
+# 🚩Challenges faced:
    1) Encoding issues : resolved using 'latin-1' during CSV import
       
    2) Missing values in 'Cuisines' column : since the proportion of
@@ -58,22 +58,22 @@ Product Dataset (product based)
 
 # 📊Visualizations Included
    -> Pie charts (Top countries, cities, online delivery)
-  
+
    -> Count plots (Rating color, city category)
    
    -> Clustered bar plots (Aggregate rating by country)
 
-#👥 Collaborators
+# 👥 Collaborators
 
-Special thanks to:
+   Special thanks to:
 
-• Chirag Jhumkawala
-•	Pranav Jaipurkar	
-•	Sandhya Hinduja
-• Shivani Tripathi
+   • Chirag Jhumkawala
+   • Pranav Jaipurkar	
+   • Sandhya Hinduja
+   • Shivani Tripathi
 
-for their guidance, support and contributions.
-
+   for their guidance, support and contributions.
+  
 
    
    
